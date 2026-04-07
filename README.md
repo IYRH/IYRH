@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <h2>👋 Hi, I'm Ines Yaelin</h2>
+  <h2>👋 Hi, I'm Inés Yaelin</h2>
   </head>
   
   <body>
