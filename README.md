@@ -16,19 +16,19 @@
     </div>
     <div>
       <h4>🛠️ Tech Stack</h4>
-      
-      <!--
-      <h5>Languages</h5>
+      <ul>
+        <li><b>Languages:</b>Python (data processing, scripting, automation), SQL (advanced queries, joins, aggregations, performance optimization).</li>
+        <li><b>Libraries & Frameworks:</b>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.</li>
+        <li><b>Data Skills: </b>Data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis.</li>
+        <li><b>Tools & Platforms: </b>Excel (advanced formulas, pivot tables), Power BI (data modeling, dashboards), Git, GitHub.</li>
+        <li><b>Workflow & Practices: </b>Version control, reproducible analysis, modular code structure, documentation and reporting.</li>
+      </ul>
       <p align="center">
          <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,c,cs,java,js" >
+          <img src="https://skillicons.dev/icons?i=py,java,c,cs,js,html,css,nodejs,git,github,flask,r,matlab,mysql,powershell" >
+          <img src="https://skillicons.dev/icons?i=anaconda,discordjs,flutter,sqlite,sass,wordpress,vscode,linux">
         </a>
       </p>
-      <p align="center">
-         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,c,cs,java,js" >
-        </a>
-      </p> -->
     </div>
     <div>
       <h4>📚 Currently Learning</h4>
@@ -36,9 +36,7 @@
       <p>♥ Advanced data visualization</p> 
       <p>♥ Real-world data projects</p> 
     </div>
-     
-
-    
+    <i>⭐ Always open to learning and new opportunities in data analysis.</i>
   </body>
 </html>
 
